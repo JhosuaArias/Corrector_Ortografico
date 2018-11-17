@@ -10,8 +10,5 @@ public class Main {
 
         System.out.println((endTime - startTime)/1000000);
 
-        query = "Me cago en la reputisima madre que la remilpario";
-        System.out.println(query);
-        System.out.println(OrthographicCorrector.correctOrthography(query));
     }
 }
